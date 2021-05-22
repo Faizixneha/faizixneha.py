@@ -13,8 +13,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 os.system('termux-setup-storage')
 os.system('clear')
-logo = '\n\n\x1b[1;92m\n   _____    _________  \n  /  _  \\   \\_   ___ \\ \n /  /_\\  \\  /    \\  \\/  \x1b[1;93m SPEEDI UPDATE 2.0.1"\x1b[1;92m\n/    |    \\ \\     \\____\n\\____|__  /  \\______  /\n        \\/          \\/ \n\x1b[1;97m----------------------------------------------\n   Author   : RANA AAHIL\n   Github   : https://github.com/TheAahil\n   Youtube  : Aahil Creations\n----------------------------------------------\n             \x1b[1;92mFREE MODE ACTIVATED\n\x1b[1;97m------------------------------------------------\nBE A GOOD PERSON BUT DONT WASTE TIME TO PROVE IT\n------------------------------------------------ '
-CorrectUsername = 'FaiziXNeha'
+logo = '\n\n\x1b[1;92m\n   _____    _________  \n  /  _  \\   \\_   ___ \\ \n /  /_\\  \\  /    \\  \\/  \x1b[1;93m SPEEDI UPDATE 2.0.1"\x1b[1;92m\n/    |    \\ \\     \\____\n\\____|__  /  \\______  /\n        \\/          \\/ \n\x1b[1;97m----------------------------------------------\n   Author   : FaizixNeha\n   Github   : https://github.com/FaizixNeha\n   Youtube  : Khan 365\n----------------------------------------------\n             \x1b[1;92mFREE MODE ACTIVATED\n\x1b[1;97m------------------------------------------------\nBE A GOOD PERSON BUT DONT WASTE TIME TO PROVE IT\n------------------------------------------------ '
 loop = 'true'
 while loop == 'true':
     print logo
